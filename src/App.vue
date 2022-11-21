@@ -1,7 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import LeafletMap from "@/components/LeafletMap.vue";
+</script>
 
 <template>
-  <main>Hello world</main>
+  <main><leaflet-map /></main>
 </template>
-
-<style scoped></style>

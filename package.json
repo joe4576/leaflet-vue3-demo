@@ -9,9 +9,11 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "leaflet": "^1.9.3",
     "vue": "^3.2.41"
   },
   "devDependencies": {
+    "@types/leaflet": "^1.9.0",
     "@types/node": "^16.11.68",
     "@vitejs/plugin-vue": "^3.1.2",
     "@vue/tsconfig": "^0.1.3",
